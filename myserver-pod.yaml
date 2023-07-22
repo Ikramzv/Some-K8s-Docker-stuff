@@ -8,7 +8,7 @@ metadata:
 spec:
   containers:
     - name: my-server-container
-      image: nginx
+      image: ikram1963/my-app-image:latest
       resources:
         requests:
           cpu: 100m
